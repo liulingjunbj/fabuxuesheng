@@ -9,6 +9,7 @@
 - `homework-closed-loop-demo.html`：统一发布流程
 - `student-entry-demo.html`：飞象老师站内学生入口方案
 - `feixiangxuesheng-demo.html`：独立学生站方案
+- `teacher-task-center.html`：教师端学生名单、已布置任务与行为动态
 
 ## 本地预览
 
@@ -27,4 +28,3 @@ python3 -m http.server 8765
 - Folder：`/ (root)`
 
 保存后访问：`https://liulingjunbj.github.io/fabuxuesheng/`
-
